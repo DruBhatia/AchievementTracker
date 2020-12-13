@@ -1,9 +1,9 @@
 ﻿Name,Percent Completion,Achievements Collected,Total Achievements,Hours in-game,Notes,,Games to be attempted,,Games to 100% eventually,,Games to  100% soon,,100% Games,,Games to never 100%
 12 Is Better Than 6,100,46,46,6,,,911 Operator,,Borderlands 2,,King's League II,,12 Is Better Than 6,,Age of Wonders III
 Assassin’s Creed Odyssey,100,93,93,270,,,Borderlands: The Pre-Sequel,,Borderlands 3,,Mean Greens - Plastic Warfare,,Assassin’s Creed Odyssey,,Ashes of the Singularity
-"Bury Me, My Love",100,19,19,13,Need to play for ENG287,,Do Not Feed the Monkeys,,Dead Island,,,,"Bury Me, My Love",,Blacklight: Retribution
-Deep Sleep Trilogy,100,11,11,5,,,FrostPunk,,Sniper Elite V2,,,,Deep Sleep Trilogy,,Counter Strike: Global Offensive
-Degrees,100,43,43,1,"Old game, occasionally unlisted",,Game Dev Tycoon,,Monster Prom,,,,Degrees,,Crossout
+"Bury Me, My Love",100,19,19,13,Need to play for ENG287,,Do Not Feed the Monkeys,,Dead Island,,Sniper Elite V2,,"Bury Me, My Love",,Blacklight: Retribution
+Deep Sleep Trilogy,100,11,11,5,,,FrostPunk,,Monster Prom,,,,Deep Sleep Trilogy,,Counter Strike: Global Offensive
+Degrees,100,43,43,1,"Old game, occasionally unlisted",,Game Dev Tycoon,,,,,,Degrees,,Crossout
 Don't Escape Trilogy,100,13,13,5,,,Kingdom Rush Vengeance,,,,,,Don't Escape Trilogy,,Dead Island: Epidemic
 Don't Escape: 4 Days to Survive,100,25,25,17,,,LIMBO,,,,,,Don't Escape: 4 Days to Survive,,DiRT Rally
 Estranged: Act I,100,9,9,2,"F2P, Invisible in Steam Library",,Orwell,,,,,,Estranged: Act I,,I'm not a Monster
@@ -41,8 +41,8 @@ Counter Strike: Global Offensive,86.83,145,167,203,F2P,,,,,,,,,,
 King's League II,84.62,33,39,27,Steam-limited game with low user count; achievements will not count on profile,,,,,,,,,,
 PLAYERUNKNOWN'S BATTLEGROUNDS,83.78,31,37,556,,,,,,,,,,,
 Stellaris,71.93,82,114,320,Active service,,,,,,,,,,
+Sniper Elite V2,70.21,33,47,24,,,,,,,,,,,
 Borderlands 2,69.33,52,75,72,,,,,,,,,,,
-Sniper Elite V2,68.09,32,47,22,,,,,,,,,,,
 PUBG Test Server,56.76,21,37,11,"Add-on to base game but with separate achievements, sometimes invisible in Library",,,,,,,,,,
 Borderlands 3,56.41,44,78,77,Active service until 2021,,,,,,,,,,
 Dead Island,56.25,27,48,39,,,,,,,,,,,
@@ -62,6 +62,7 @@ Do Not Feed the Monkeys,0,0,33,0,Active service,,,,,,,,,,
 FrostPunk,0,0,95,0,,,,,,,,,,,
 Game Dev Tycoon,0,0,35,0,,,,,,,,,,,
 I'm not a Monster,0,0,88,0,,,,,,,,,,,
+Inside,0,0,14,0,,,,,,,,,,,
 Kingdom Rush Vengeance,0,0,70,0,,,,,,,,,,,
 LIMBO,0,0,13,0,,,,,,,,,,,
 Middle Earth: Shadow of War,0,0,72,0,,,,,,,,,,,
@@ -75,11 +76,11 @@ This Is The Police II,0,0,12,0,,,,,,,,,,,
 Titan Attacks,0,0,47,0,,,,,,,,,,,
 Tropico 4,0,0,70,0,,,,,,,,,,,
 Wandersong,0,0,75,0,,,,,,,,,,,
-Total Games Supporting Achievements,75,7731,9643,3234,"Possibility of slight miscounts in achievements due to old, unlisted, and limited games",,,,,,,,,,
+Total Games Supporting Achievements,76,7844,9785,3412,"Possibility of slight miscounts in achievements due to old, unlisted, and limited games",,,,,,,,,,
 Total Games Attempted,51,,8196,<- Total Achievements of only attempted games,,,,,,,,,,,
 Total Games Completed,36,,,,,,,,,,,,,,
-Raw Average Completion Rate,80.1721456,,,,,,,,,,,,,,
-Unweighted Attempted Average Completion Rate,87.06576923,94.32650073,<- Weighted Attempted Average Completion Rate,,,,,,,,,,,,
+Raw Average Completion Rate,80.16351559,,,,,,,,,,,,,,
+Unweighted Attempted Average Completion Rate,87.10653846,95.70522206,<- Weighted Attempted Average Completion Rate,,,,,,,,,,,,
 Perfection Rate,70.59,,,,,,,,,,,,,,
 KEY:,,,,,,,,,,,,,,,
 Background Colours,Text Colours,Notes Addendum+Explanation,,,,,,,,,,,,,
