@@ -1,18 +1,18 @@
 ﻿Name,Percent Completion,Achievements Collected,Total Achievements,Hours in-game,Notes,,Games to be attempted,,Games to 100% eventually,,Games to  100% soon,,100% Games,,Games to never 100%
-12 Is Better Than 6,100,46,46,6,,,911 Operator,,Borderlands 2,,King's League II,,12 Is Better Than 6,,Age of Wonders III
-Assassin’s Creed Odyssey,100,93,93,270,,,Borderlands: The Pre-Sequel,,Borderlands 3,,Mean Greens - Plastic Warfare,,Assassin’s Creed Odyssey,,Ashes of the Singularity
-"Bury Me, My Love",100,19,19,13,Need to play for ENG287,,Do Not Feed the Monkeys,,Dead Island,,Sniper Elite V2,,"Bury Me, My Love",,Blacklight: Retribution
-Deep Sleep Trilogy,100,11,11,5,,,FrostPunk,,Monster Prom,,,,Deep Sleep Trilogy,,Counter Strike: Global Offensive
+12 Is Better Than 6,100,46,46,6,,,911 Operator,,Borderlands 2,,Kingdom Rush Vengeance,,12 Is Better Than 6,,Age of Wonders III
+Assassin’s Creed Odyssey,100,93,93,270,,,Borderlands: The Pre-Sequel,,Borderlands 3,,King's League II,,Assassin’s Creed Odyssey,,Ashes of the Singularity
+"Bury Me, My Love",100,19,19,13,Need to play for ENG287,,Do Not Feed the Monkeys,,Dead Island,,Mean Greens - Plastic Warfare,,"Bury Me, My Love",,Blacklight: Retribution
+Deep Sleep Trilogy,100,11,11,5,,,FrostPunk,,Monster Prom,,Sniper Elite V2,,Deep Sleep Trilogy,,Counter Strike: Global Offensive
 Degrees,100,43,43,1,"Old game, occasionally unlisted",,Game Dev Tycoon,,,,,,Degrees,,Crossout
-Don't Escape Trilogy,100,13,13,5,,,Kingdom Rush Vengeance,,,,,,Don't Escape Trilogy,,Dead Island: Epidemic
+Don't Escape Trilogy,100,13,13,5,,,INSIDE,,,,,,Don't Escape Trilogy,,Dead Island: Epidemic
 Don't Escape: 4 Days to Survive,100,25,25,17,,,LIMBO,,,,,,Don't Escape: 4 Days to Survive,,DiRT Rally
-Estranged: Act I,100,9,9,2,"F2P, Invisible in Steam Library",,Orwell,,,,,,Estranged: Act I,,I'm not a Monster
-Estranged: Act II,100,14,14,7,"F2P, somewhat active service",,Rebel Inc: Escalation,,,,,,Estranged: Act II,,MORDHAU
-Finding Paradise,100,1,1,6,,,RGB Run,,,,,,Finding Paradise,,Paratopic
-Infectonator 3: Apocalypse,100,41,41,39,,,This Is The Police II,,,,,,Infectonator 3: Apocalypse,,PAYDAY 2
-Just Cause 3,100,66,66,75,,,Titan Attacks,,,,,,Just Cause 3,,PLAYERUNKNOWN'S BATTLEGROUNDS
-Kingdom Rush,100,74,74,42,,,Wandersong,,,,,,Kingdom Rush,,Pool Panic
-Kingdom Rush Frontiers,100,85,85,71,,,,,,,,,Kingdom Rush Frontiers,,PUBG Test Server
+Estranged: Act I,100,9,9,2,"F2P, Invisible in Steam Library",,Middle Earth: Shadow of War,,,,,,Estranged: Act I,,I'm not a Monster
+Estranged: Act II,100,14,14,7,"F2P, somewhat active service",,Orwell,,,,,,Estranged: Act II,,MORDHAU
+Finding Paradise,100,1,1,6,,,Rebel Inc: Escalation,,,,,,Finding Paradise,,Paratopic
+Infectonator 3: Apocalypse,100,41,41,39,,,RGB Run,,,,,,Infectonator 3: Apocalypse,,PAYDAY 2
+Just Cause 3,100,66,66,75,,,This Is The Police II,,,,,,Just Cause 3,,PLAYERUNKNOWN'S BATTLEGROUNDS
+Kingdom Rush,100,74,74,42,,,Titan Attacks,,,,,,Kingdom Rush,,Pool Panic
+Kingdom Rush Frontiers,100,85,85,71,,,Wandersong,,,,,,Kingdom Rush Frontiers,,PUBG Test Server
 Kingdom Rush Origins,100,83,83,50,,,,,,,,,Kingdom Rush Origins,,Red Faction Guerrilla
 LYNE,100,33,33,3,,,,,,,,,LYNE,,Star Conflict
 Mad Max,100,49,49,71,,,,,,,,,Mad Max,,Stellaris
@@ -63,7 +63,7 @@ Do Not Feed the Monkeys,0,0,33,0,Active service,,,,,,,,,,
 FrostPunk,0,0,95,0,,,,,,,,,,,
 Game Dev Tycoon,0,0,35,0,,,,,,,,,,,
 I'm not a Monster,0,0,88,0,,,,,,,,,,,
-Inside,0,0,14,0,,,,,,,,,,,
+INSIDE,0,0,14,0,,,,,,,,,,,
 LIMBO,0,0,13,0,,,,,,,,,,,
 Middle Earth: Shadow of War,0,0,72,0,,,,,,,,,,,
 Orwell,0,0,27,0,,,,,,,,,,,
@@ -76,11 +76,11 @@ This Is The Police II,0,0,12,0,,,,,,,,,,,
 Titan Attacks,0,0,47,0,,,,,,,,,,,
 Tropico 4,0,0,70,0,,,,,,,,,,,
 Wandersong,0,0,75,0,,,,,,,,,,,
-Total Games Supporting Achievements,76,7794,9657,3284,"Possibility of slight miscounts in achievements due to old, unlisted, and limited games",,,,,,,,,,
-Total Games Attempted,52,,8325,<- Total Achievements of only attempted games,,,,,,,,,,,
+Total Games Supporting Achievements,76,7906,9785,3460,"Possibility of slight miscounts in achievements due to old, unlisted, and limited games",,,,,,,,,,
+Total Games Attempted,52,,8356,<- Total Achievements of only attempted games,,,,,,,,,,,
 Total Games Completed,36,,,,,,,,,,,,,,
-Raw Average Completion Rate,80.7082945,,,,,,,,,,,,,,
-Unweighted Attempted Average Completion Rate,87.13415094,93.62162162,<- Weighted Attempted Average Completion Rate,,,,,,,,,,,,
+Raw Average Completion Rate,80.79713848,,,,,,,,,,,,,,
+Unweighted Attempted Average Completion Rate,87.13415094,94.61464816,<- Weighted Attempted Average Completion Rate,,,,,,,,,,,,
 Perfection Rate,69.23,,,,,,,,,,,,,,
 KEY:,,,,,,,,,,,,,,,
 Background Colours,Text Colours,Notes Addendum+Explanation,,,,,,,,,,,,,
