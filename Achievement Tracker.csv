@@ -1,8 +1,8 @@
 ﻿Name,Percent Completion,Achievements Collected,Total Achievements,Hours in-game,Notes,,Games to be attempted,,Games to 100% eventually,,Games to  100% soon,,100% Games,,Games to never 100%
-12 Is Better Than 6,100,46,46,6,,,911 Operator,,Borderlands 2,,Kingdom Rush Vengeance,,12 Is Better Than 6,,Age of Wonders III
-Assassin’s Creed Odyssey,100,93,93,270,,,Borderlands: The Pre-Sequel,,Borderlands 3,,King's League II,,Assassin’s Creed Odyssey,,Ashes of the Singularity
-"Bury Me, My Love",100,19,19,13,Need to play for ENG287,,Do Not Feed the Monkeys,,Dead Island,,Mean Greens - Plastic Warfare,,"Bury Me, My Love",,Blacklight: Retribution
-Deep Sleep Trilogy,100,11,11,5,,,FrostPunk,,Monster Prom,,Sniper Elite V2,,Deep Sleep Trilogy,,Counter Strike: Global Offensive
+12 Is Better Than 6,100,46,46,6,,,911 Operator,,Borderlands 2,,King's League II,,12 Is Better Than 6,,Age of Wonders III
+Assassin’s Creed Odyssey,100,93,93,270,,,Borderlands: The Pre-Sequel,,Borderlands 3,,Mean Greens - Plastic Warfare,,Assassin’s Creed Odyssey,,Ashes of the Singularity
+"Bury Me, My Love",100,19,19,13,Need to play for ENG287,,Do Not Feed the Monkeys,,Dead Island,,Sniper Elite V2,,"Bury Me, My Love",,Blacklight: Retribution
+Deep Sleep Trilogy,100,11,11,5,,,FrostPunk,,Monster Prom,,,,Deep Sleep Trilogy,,Counter Strike: Global Offensive
 Degrees,100,43,43,1,"Old game, occasionally unlisted",,Game Dev Tycoon,,,,,,Degrees,,Crossout
 Don't Escape Trilogy,100,13,13,5,,,INSIDE,,,,,,Don't Escape Trilogy,,Dead Island: Epidemic
 Don't Escape: 4 Days to Survive,100,25,25,17,,,LIMBO,,,,,,Don't Escape: 4 Days to Survive,,DiRT Rally
@@ -14,10 +14,11 @@ Just Cause 3,100,66,66,75,,,This Is The Police II,,,,,,Just Cause 3,,PLAYERUNKNO
 Kingdom Rush,100,74,74,42,,,Titan Attacks,,,,,,Kingdom Rush,,Pool Panic
 Kingdom Rush Frontiers,100,85,85,71,,,Wandersong,,,,,,Kingdom Rush Frontiers,,PUBG Test Server
 Kingdom Rush Origins,100,83,83,50,,,,,,,,,Kingdom Rush Origins,,Red Faction Guerrilla
-LYNE,100,33,33,3,,,,,,,,,LYNE,,Star Conflict
-Mad Max,100,49,49,71,,,,,,,,,Mad Max,,Stellaris
-Middle Earth: Shadow of Mordor,100,74,74,51,,,,,,,,,Middle Earth: Shadow of Mordor,,Team Fortress 2
-Orion: Prelude,100,251,251,1,"Unlisted, was manually deactivated from Steam Library but reactivated for 100%",,,,,,,,Orion: Prelude,,Tropico 4
+Kingdom Rush Vengeance,100,70,70,60,,,,,,,,,Kingdom Rush Vengeance,,Star Conflict
+LYNE,100,33,33,3,,,,,,,,,LYNE,,Stellaris
+Mad Max,100,49,49,71,,,,,,,,,Mad Max,,Team Fortress 2
+Middle Earth: Shadow of Mordor,100,74,74,51,,,,,,,,,Middle Earth: Shadow of Mordor,,Tropico 4
+Orion: Prelude,100,251,251,1,"Unlisted, was manually deactivated from Steam Library but reactivated for 100%",,,,,,,,Orion: Prelude,,
 "Papers, Please",100,13,13,8,,,,,,,,,"Papers, Please",,
 Project Winter,100,74,74,2,"Invisible, played during Promo Event",,,,,,,,Project Winter,,
 Rage Parking Simulator 2016,100,466,466,2,"Old game, Unlisted",,,,,,,,Rage Parking Simulator 2016,,
@@ -37,7 +38,6 @@ Train Journey,100,1877,1877,1,"Old game, Unlisted",,,,,,,,Train Journey,,
 Zup! 3,100,1708,1708,2,,,,,,,,,Zup! 3,,
 Team Fortress 2,94.81,493,520,260,"F2P, Invisible in Steam Library, Active service",,,,,,,,,,
 PAYDAY 2,94.1,1149,1221,11,"F2P, Played >100h offline, Active service",,,,,,,,,,
-Kingdom Rush Vengeance,88.57,62,70,48,,,,,,,,,,,
 Counter Strike: Global Offensive,86.83,145,167,203,F2P,,,,,,,,,,
 King's League II,84.62,33,39,27,Steam-limited game with low user count; achievements will not count on profile,,,,,,,,,,
 PLAYERUNKNOWN'S BATTLEGROUNDS,83.78,31,37,556,,,,,,,,,,,
@@ -50,8 +50,8 @@ Dead Island,56.25,27,48,39,,,,,,,,,,,
 Mean Greens - Plastic Warfare,45.83,11,24,4,,,,,,,,,,,
 Star Conflict,43.66,93,213,38,F2P,,,,,,,,,,
 Monster Prom,7.69,4,52,2,,,,,,,,,,,
-MORDHAU,5.26,2,38,3,F2P,,,,,,,,,,
-Crossout,2.07,4,193,3,,,,,,,,,,,
+MORDHAU,5.26,2,38,3,,,,,,,,,,,
+Crossout,2.07,4,193,3,F2P,,,,,,,,,,
 911 Operator,0,0,18,0,,,,,,,,,,,
 Age of Wonders III,0,0,74,0,,,,,,,,,,,
 Ashes of the Singularity,0,0,54,0,,,,,,,,,,,
@@ -59,8 +59,8 @@ Borderlands: The Pre-Sequel,0,0,63,0,,,,,,,,,,,
 Bulb Boy,0,0,12,0,,,,,,,,,,,
 Dead Island: Epidemic,0,0,54,0,,,,,,,,,,,
 DiRT Rally,0,0,170,0,,,,,,,,,,,
-Do Not Feed the Monkeys,0,0,33,0,Active service,,,,,,,,,,
-FrostPunk,0,0,95,0,,,,,,,,,,,
+Do Not Feed the Monkeys,0,0,33,0,,,,,,,,,,,
+FrostPunk,0,0,95,0,Active service,,,,,,,,,,
 Game Dev Tycoon,0,0,35,0,,,,,,,,,,,
 I'm not a Monster,0,0,88,0,,,,,,,,,,,
 INSIDE,0,0,14,0,,,,,,,,,,,
@@ -76,12 +76,12 @@ This Is The Police II,0,0,12,0,,,,,,,,,,,
 Titan Attacks,0,0,47,0,,,,,,,,,,,
 Tropico 4,0,0,70,0,,,,,,,,,,,
 Wandersong,0,0,75,0,,,,,,,,,,,
-Total Games Supporting Achievements,76,7906,9785,3460,"Possibility of slight miscounts in achievements due to old, unlisted, and limited games",,,,,,,,,,
+Total Games Supporting Achievements,76,7914,9785,3472,"Possibility of slight miscounts in achievements due to old, unlisted, and limited games",,,,,,,,,,
 Total Games Attempted,52,,8356,<- Total Achievements of only attempted games,,,,,,,,,,,
-Total Games Completed,36,,,,,,,,,,,,,,
-Raw Average Completion Rate,80.79713848,,,,,,,,,,,,,,
-Unweighted Attempted Average Completion Rate,87.13415094,94.61464816,<- Weighted Attempted Average Completion Rate,,,,,,,,,,,,
-Perfection Rate,69.23,,,,,,,,,,,,,,
+Total Games Completed,37,,,,,,,,,,,,,,
+Raw Average Completion Rate,80.87889627,,,,,,,,,,,,,,
+Unweighted Attempted Average Completion Rate,87.34981132,94.71038775,<- Weighted Attempted Average Completion Rate,,,,,,,,,,,,
+Perfection Rate,71.15,,,,,,,,,,,,,,
 KEY:,,,,,,,,,,,,,,,
 Background Colours,Text Colours,Notes Addendum+Explanation,,,,,,,,,,,,,
 100% Completion,Games I either finished or I no longer regularly play,Games to attempt are ones I am interested in and plan to play for the first time soon. Whether or not I reach 100% completion is unknown but the games have been selected to have reasonable chances of this occurring naturally,,,,,,,,,,,,,
